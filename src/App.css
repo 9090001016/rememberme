@@ -1,6 +1,16 @@
 .App {
   text-align: center;
 }
+.imagestyle{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+.profic{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
 
 .App-logo {
   height: 40vmin;
